@@ -41,3 +41,14 @@ p {
         padding: 3em 10em 3em 10em;
     }
 }
+@media only screen and (max-width: 1000px) {
+    h1 {
+        font-size: 2em !important;
+    }
+    img {
+        padding: 0.5em 1.5em 0.5em 1.5em;
+    }
+    .my-conteiner {
+        padding: 3em 10em 3em 10em;
+    }
+}
