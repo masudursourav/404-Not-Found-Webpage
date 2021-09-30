@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{}">
+    <a href="https://{https://masudursourav.github.io/404-Not-Found-Webpage/}">
       Solution
     </a>
     <span> | </span>
